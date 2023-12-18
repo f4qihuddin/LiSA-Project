@@ -16,3 +16,4 @@ void inputKalimat(char kata[50], char kalimat[200])
 /*latihan commit dhimas*/
 hola
 hello khairana
+yasin guys
