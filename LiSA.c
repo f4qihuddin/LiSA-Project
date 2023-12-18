@@ -17,3 +17,5 @@ void inputKalimat(char kata[50], char kalimat[200])
 hola
 hello khairana
 yasin guys
+ini reyvan
+
